@@ -4,7 +4,7 @@
     "title": "Cello — AYO Audition",
     "description": "Audition preparation.",
     "tags": ["cello", "audition"],
-    "stepCount": 0,
+    "stepCount": 5,
     "zipUrl": "/downloads/v1/cello-ayo-audition-protected.zip",
     "thumbnailEmoji": "🎻"
   },
@@ -13,7 +13,7 @@
     "title": "Xote — Part 1",
     "description": "Xote, part 1.",
     "tags": ["xote"],
-    "stepCount": 0,
+    "stepCount": 6,
     "zipUrl": "/downloads/v1/xote-part-1-protected.zip",
     "thumbnailEmoji": "🎵"
   }
