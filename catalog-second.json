@@ -4,7 +4,7 @@
     "title": "Vou Viv — Duplicates Test",
     "description": "Test package for import name-conflict handling.",
     "tags": ["test"],
-    "stepCount": 0,
+    "stepCount": 2,
     "zipUrl": "/downloads/v1/vou-viv-test-duplicates-package.zip",
     "thumbnailEmoji": "🧪"
   }
