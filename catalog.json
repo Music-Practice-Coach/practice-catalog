@@ -1,57 +1,57 @@
 [
   {
-    "zipUrl" : "/downloads/v1/cello-ayo-audition-protected.zip",
     "description" : "Audition preparation.",
+    "thumbnailEmoji" : "🎻",
     "tags" : [
       "cello",
       "audition"
     ],
+    "stepCount" : 5,
     "id" : "cello-ayo-audition",
-    "title" : "Cello — AYO Audition",
-    "thumbnailEmoji" : "🎻",
-    "stepCount" : 5
+    "zipUrl" : "/downloads/v1/cello-ayo-audition-protected.zip",
+    "title" : "Cello — AYO Audition"
   },
   {
-    "zipUrl" : "/downloads/v1/xote-part-1-protected.zip",
     "description" : "Xote, part 1.",
+    "thumbnailEmoji" : "🎵",
     "tags" : [
       "xote"
     ],
+    "stepCount" : 6,
     "id" : "xote-part-1",
-    "title" : "Xote — Part 1",
-    "thumbnailEmoji" : "🎵",
-    "stepCount" : 6
+    "zipUrl" : "/downloads/v1/xote-part-1-protected.zip",
+    "title" : "Xote — Part 1"
   },
   {
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/plan.zip",
-    "title" : "Που θα πάει που",
     "description" : "",
+    "title" : "Που θα πάει που",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/plan.zip",
+    "tags" : [
+
+    ],
+    "id" : "plan",
+    "stepCount" : 5
+  },
+  {
+    "description" : "Illustration of how midi features work on the app",
+    "thumbnailEmoji" : "🎵",
     "tags" : [
 
     ],
     "stepCount" : 5,
-    "id" : "plan"
-  },
-  {
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.zip",
-    "description" : "Illustration of how midi features work on the app",
-    "tags" : [
-
-    ],
     "id" : "midi-test",
-    "title" : "midi test",
-    "thumbnailEmoji" : "🎵",
-    "stepCount" : 5
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.zip",
+    "title" : "midi test"
   },
   {
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/bourreviolin.zip",
     "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
     "tags" : [
 
     ],
+    "stepCount" : 1,
     "id" : "bourreviolin",
-    "title" : "BourreViolin",
-    "thumbnailEmoji" : "🎵",
-    "stepCount" : 1
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/bourreviolin.zip",
+    "title" : "BourreViolin"
   }
 ]
