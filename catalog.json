@@ -1,46 +1,57 @@
 [
   {
-    "id" : "cello-ayo-audition",
-    "title" : "Cello — AYO Audition",
+    "zipUrl" : "/downloads/v1/cello-ayo-audition-protected.zip",
+    "description" : "Audition preparation.",
     "tags" : [
       "cello",
       "audition"
     ],
-    "stepCount" : 5,
-    "description" : "Audition preparation.",
+    "id" : "cello-ayo-audition",
+    "title" : "Cello — AYO Audition",
     "thumbnailEmoji" : "🎻",
-    "zipUrl" : "/downloads/v1/cello-ayo-audition-protected.zip"
+    "stepCount" : 5
   },
   {
-    "id" : "xote-part-1",
-    "title" : "Xote — Part 1",
+    "zipUrl" : "/downloads/v1/xote-part-1-protected.zip",
+    "description" : "Xote, part 1.",
     "tags" : [
       "xote"
     ],
-    "stepCount" : 6,
-    "description" : "Xote, part 1.",
+    "id" : "xote-part-1",
+    "title" : "Xote — Part 1",
     "thumbnailEmoji" : "🎵",
-    "zipUrl" : "/downloads/v1/xote-part-1-protected.zip"
+    "stepCount" : 6
   },
   {
     "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/plan.zip",
+    "title" : "Που θα πάει που",
+    "description" : "",
     "tags" : [
 
     ],
-    "id" : "plan",
     "stepCount" : 5,
-    "title" : "Που θα πάει που",
-    "description" : ""
+    "id" : "plan"
   },
   {
-    "id" : "midi-test",
-    "title" : "midi test",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.zip",
+    "description" : "Illustration of how midi features work on the app",
     "tags" : [
 
     ],
-    "stepCount" : 5,
-    "description" : "Illustration of how midi features work on the app",
+    "id" : "midi-test",
+    "title" : "midi test",
     "thumbnailEmoji" : "🎵",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.zip"
+    "stepCount" : 5
+  },
+  {
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/bourreviolin.zip",
+    "description" : "",
+    "tags" : [
+
+    ],
+    "id" : "bourreviolin",
+    "title" : "BourreViolin",
+    "thumbnailEmoji" : "🎵",
+    "stepCount" : 1
   }
 ]
