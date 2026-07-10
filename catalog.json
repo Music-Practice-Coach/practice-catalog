@@ -1,57 +1,60 @@
 [
   {
-    "description" : "Audition preparation.",
-    "thumbnailEmoji" : "🎻",
-    "tags" : [
+    "description": "Audition preparation.",
+    "thumbnailEmoji": "🎻",
+    "tags": [
       "cello",
       "audition"
     ],
-    "stepCount" : 5,
-    "id" : "cello-ayo-audition",
-    "zipUrl" : "/downloads/v1/cello-ayo-audition-protected.zip",
-    "title" : "Cello — AYO Audition"
+    "stepCount": 5,
+    "id": "cello-ayo-audition",
+    "zipUrl": "/downloads/v1/cello-ayo-audition-protected.zip",
+    "title": "Cello — AYO Audition"
   },
   {
-    "description" : "Xote, part 1.",
-    "thumbnailEmoji" : "🎵",
-    "tags" : [
+    "description": "Xote, part 1.",
+    "thumbnailEmoji": "🎵",
+    "tags": [
       "xote"
     ],
-    "stepCount" : 6,
-    "id" : "xote-part-1",
-    "zipUrl" : "/downloads/v1/xote-part-1-protected.zip",
-    "title" : "Xote — Part 1"
+    "stepCount": 6,
+    "id": "xote-part-1",
+    "zipUrl": "/downloads/v1/xote-part-1-protected.zip",
+    "title": "Xote — Part 1"
   },
   {
-    "description" : "",
-    "title" : "Που θα πάει που",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/plan.zip",
-    "tags" : [
-
-    ],
-    "id" : "plan",
-    "stepCount" : 5
+    "description": "",
+    "title": "Που θα πάει που",
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/plan.zip",
+    "tags": [],
+    "id": "plan",
+    "stepCount": 5
   },
   {
-    "description" : "Illustration of how midi features work on the app",
-    "thumbnailEmoji" : "🎵",
-    "tags" : [
-
-    ],
-    "stepCount" : 5,
-    "id" : "midi-test",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.zip",
-    "title" : "midi test"
+    "description": "Illustration of how midi features work on the app",
+    "thumbnailEmoji": "🎵",
+    "tags": [],
+    "stepCount": 5,
+    "id": "midi-test",
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.zip",
+    "title": "midi test"
   },
   {
-    "description" : "",
-    "thumbnailEmoji" : "🎵🔒",
-    "tags" : [
-
-    ],
-    "stepCount" : 1,
-    "id" : "bourreviolin",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/bourreviolin.zip",
-    "title" : "BourreViolin"
+    "description": "",
+    "thumbnailEmoji": "🎵🔒",
+    "tags": [],
+    "stepCount": 1,
+    "id": "bourreviolin",
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/bourreviolin.zip",
+    "title": "BourreViolin"
+  },
+  {
+    "id": "two-pw-plan",
+    "title": "two_pw_plan",
+    "description": "",
+    "tags": [],
+    "stepCount": 2,
+    "zipUrl": "https://github.com/music-practice-coach/practice-plans/releases/download/packages/two-pw-plan.zip",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
