@@ -1,20 +1,35 @@
 [
   {
-    "id": "cello-ayo-audition",
-    "title": "Cello — AYO Audition",
-    "description": "Audition preparation.",
-    "tags": ["cello", "audition"],
-    "stepCount": 5,
-    "zipUrl": "/downloads/v1/cello-ayo-audition-protected.zip",
-    "thumbnailEmoji": "🎻"
+    "stepCount" : 5,
+    "thumbnailEmoji" : "🎻",
+    "tags" : [
+      "cello",
+      "audition"
+    ],
+    "zipUrl" : "/downloads/v1/cello-ayo-audition-protected.zip",
+    "description" : "Audition preparation.",
+    "title" : "Cello — AYO Audition",
+    "id" : "cello-ayo-audition"
   },
   {
-    "id": "xote-part-1",
-    "title": "Xote — Part 1",
-    "description": "Xote, part 1.",
-    "tags": ["xote"],
-    "stepCount": 6,
-    "zipUrl": "/downloads/v1/xote-part-1-protected.zip",
-    "thumbnailEmoji": "🎵"
+    "stepCount" : 6,
+    "thumbnailEmoji" : "🎵",
+    "tags" : [
+      "xote"
+    ],
+    "zipUrl" : "/downloads/v1/xote-part-1-protected.zip",
+    "description" : "Xote, part 1.",
+    "title" : "Xote — Part 1",
+    "id" : "xote-part-1"
+  },
+  {
+    "description" : "",
+    "stepCount" : 5,
+    "tags" : [
+
+    ],
+    "title" : "midi test",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.zip",
+    "id" : "midi-test"
   }
 ]
