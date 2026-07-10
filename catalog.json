@@ -47,14 +47,5 @@
     "id": "bourreviolin",
     "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/bourreviolin.zip",
     "title": "BourreViolin"
-  },
-  {
-    "id": "two-pw-plan",
-    "title": "two_pw_plan",
-    "description": "",
-    "tags": [],
-    "stepCount": 2,
-    "zipUrl": "https://github.com/music-practice-coach/practice-plans/releases/download/packages/two-pw-plan.zip",
-    "thumbnailEmoji": "🎵🔒"
   }
 ]
