@@ -1,45 +1,46 @@
 [
   {
     "id" : "cello-ayo-audition",
-    "zipUrl" : "/downloads/v1/cello-ayo-audition-protected.zip",
-    "thumbnailEmoji" : "🎻",
-    "stepCount" : 5,
+    "title" : "Cello — AYO Audition",
     "tags" : [
       "cello",
       "audition"
     ],
+    "stepCount" : 5,
     "description" : "Audition preparation.",
-    "title" : "Cello — AYO Audition"
+    "thumbnailEmoji" : "🎻",
+    "zipUrl" : "/downloads/v1/cello-ayo-audition-protected.zip"
   },
   {
     "id" : "xote-part-1",
-    "zipUrl" : "/downloads/v1/xote-part-1-protected.zip",
-    "thumbnailEmoji" : "🎵",
-    "stepCount" : 6,
+    "title" : "Xote — Part 1",
     "tags" : [
       "xote"
     ],
+    "stepCount" : 6,
     "description" : "Xote, part 1.",
-    "title" : "Xote — Part 1"
+    "thumbnailEmoji" : "🎵",
+    "zipUrl" : "/downloads/v1/xote-part-1-protected.zip"
   },
   {
-    "stepCount" : 5,
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.zip",
-    "tags" : [
-
-    ],
-    "id" : "midi-test",
-    "title" : "midi test",
-    "description" : ""
-  },
-  {
-    "stepCount" : 5,
     "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/plan.zip",
     "tags" : [
 
     ],
     "id" : "plan",
+    "stepCount" : 5,
     "title" : "Που θα πάει που",
     "description" : ""
+  },
+  {
+    "id" : "midi-test",
+    "title" : "midi test",
+    "tags" : [
+
+    ],
+    "stepCount" : 5,
+    "description" : "Illustration of how midi features work on the app",
+    "thumbnailEmoji" : "🎵",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.zip"
   }
 ]
