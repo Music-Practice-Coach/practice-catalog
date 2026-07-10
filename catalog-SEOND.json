@@ -1,26 +1,38 @@
 [
   {
     "description" : "",
-    "title" : "Xote Part 1",
-    "thumbnailEmoji" : "🎵🔒",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/xote-part-1.zip",
+    "id" : "xote-part-1",
+    "stepCount" : 5,
     "tags" : [
       "Xote",
       "Iraklis"
     ],
-    "id" : "xote-part-1",
-    "stepCount" : 5
+    "title" : "Xote Part 1",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/xote-part-1.zip",
+    "thumbnailEmoji" : "🎵🔒"
   },
   {
     "description" : "",
-    "title" : "Xote Part 1",
-    "thumbnailEmoji" : "🎵🔒",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/xote-part-1b.zip",
+    "id" : "xote-part-1b",
+    "stepCount" : 5,
     "tags" : [
       "Xote",
       "Iraklis"
     ],
-    "id" : "xote-part-1b",
-    "stepCount" : 5
+    "title" : "Xote Part 1",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/xote-part-1b.zip",
+    "thumbnailEmoji" : "🎵🔒"
+  },
+  {
+    "description" : "",
+    "id" : "xote-part-1c",
+    "stepCount" : 5,
+    "tags" : [
+      "Xote",
+      "Iraklis"
+    ],
+    "title" : "Xote Part 1",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/xote-part-1c.zip",
+    "thumbnailEmoji" : "🎵🔒"
   }
 ]
