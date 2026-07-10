@@ -1,11 +1,25 @@
 [
   {
-    "id": "vou-viv-test-duplicates",
-    "title": "Vou Viv — Duplicates Test",
-    "description": "Test package for import name-conflict handling.",
-    "tags": ["test"],
-    "stepCount": 2,
-    "zipUrl": "/downloads/v1/vou-viv-test-duplicates-package.zip",
-    "thumbnailEmoji": "🧪"
+    "title" : "Vou Viv — Duplicates Test",
+    "description" : "Test package for import name-conflict handling.",
+    "id" : "vou-viv-test-duplicates",
+    "tags" : [
+      "test"
+    ],
+    "zipUrl" : "/downloads/v1/vou-viv-test-duplicates-package.zip",
+    "stepCount" : 2,
+    "thumbnailEmoji" : "🧪"
+  },
+  {
+    "title" : "Xote Part 1",
+    "description" : "",
+    "id" : "xote-part-1",
+    "tags" : [
+      "Xote",
+      "Iraklis"
+    ],
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/xote-part-1.zip",
+    "stepCount" : 5,
+    "thumbnailEmoji" : "🎵🔒"
   }
 ]
