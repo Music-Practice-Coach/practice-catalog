@@ -47,5 +47,16 @@
     "id": "bourreviolin",
     "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/bourreviolin.zip",
     "title": "BourreViolin"
+  },
+  {
+    "id": "frank-foxxote-songs",
+    "title": "Frank Foxxote Songs",
+    "description": "",
+    "tags": [
+      "Foxxote"
+    ],
+    "stepCount": 11,
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
