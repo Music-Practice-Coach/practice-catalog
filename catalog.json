@@ -12,17 +12,6 @@
     "title": "Cello — AYO Audition"
   },
   {
-    "description": "Xote, part 1.",
-    "thumbnailEmoji": "🎵",
-    "tags": [
-      "xote"
-    ],
-    "stepCount": 6,
-    "id": "xote-part-1",
-    "zipUrl": "/downloads/v1/xote-part-1-protected.zip",
-    "title": "Xote — Part 1"
-  },
-  {
     "description": "",
     "title": "Που θα πάει που",
     "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/plan.zip",
@@ -58,5 +47,17 @@
     "stepCount": 11,
     "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
     "thumbnailEmoji": "🎵🔒"
+  },
+  {
+    "id": "xote-part-1",
+    "title": "Xote Part 1",
+    "description": "",
+    "tags": [
+      "Xote",
+      "Iraklis"
+    ],
+    "stepCount": 5,
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/xote-part-1.practice",
+    "thumbnailEmoji": "🎵"
   }
 ]
