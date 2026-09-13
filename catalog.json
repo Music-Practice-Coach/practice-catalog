@@ -49,18 +49,6 @@
     "thumbnailEmoji": "🎵🔒"
   },
   {
-    "id": "xote-part-1",
-    "title": "Xote Part 1",
-    "description": "",
-    "tags": [
-      "Xote",
-      "Iraklis"
-    ],
-    "stepCount": 5,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/xote-part-1.practice",
-    "thumbnailEmoji": "🎵"
-  },
-  {
     "id": "longa",
     "title": "Longa",
     "description": "",
