@@ -47,5 +47,16 @@
     "stepCount": 11,
     "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
     "thumbnailEmoji": "🎵🔒"
+  },
+  {
+    "id": "size-test",
+    "title": "Size-test",
+    "description": "",
+    "tags": [
+      "seu jacinto"
+    ],
+    "stepCount": 28,
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
