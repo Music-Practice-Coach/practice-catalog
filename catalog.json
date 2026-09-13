@@ -47,16 +47,5 @@
     "stepCount": 11,
     "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
     "thumbnailEmoji": "🎵🔒"
-  },
-  {
-    "id": "longa",
-    "title": "Longa",
-    "description": "",
-    "tags": [
-      "Iraklis"
-    ],
-    "stepCount": 7,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/longa.practice",
-    "thumbnailEmoji": "🎵"
   }
 ]
