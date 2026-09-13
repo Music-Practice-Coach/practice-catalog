@@ -70,5 +70,16 @@
     "stepCount": 7,
     "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/longa.practice",
     "thumbnailEmoji": "🎵"
+  },
+  {
+    "id": "cm-9-05-26",
+    "title": "CM 9-05-26",
+    "description": "",
+    "tags": [
+      "seu jacinto"
+    ],
+    "stepCount": 26,
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cm-9-05-26.practice",
+    "thumbnailEmoji": "🎵"
   }
 ]
