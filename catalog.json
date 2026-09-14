@@ -58,16 +58,5 @@
     "stepCount": 28,
     "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice",
     "thumbnailEmoji": "🎵🔒"
-  },
-  {
-    "id": "tuesday-triti-sep-8",
-    "title": "Tuesday / Τρίτη — Sep 8",
-    "description": "",
-    "tags": [
-      "Cleio"
-    ],
-    "stepCount": 9,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
-    "thumbnailEmoji": "🎵"
   }
 ]
