@@ -1,54 +1,58 @@
 [
   {
-    "description": "Audition preparation.",
-    "thumbnailEmoji": "🎻",
-    "tags": [
+    "stepCount" : 5,
+    "description" : "Audition preparation.",
+    "id" : "cello-ayo-audition",
+    "tags" : [
       "cello",
       "audition"
     ],
-    "stepCount": 5,
-    "id": "cello-ayo-audition",
-    "zipUrl": "/downloads/v1/cello-ayo-audition-protected.zip",
-    "title": "Cello — AYO Audition"
+    "zipUrl" : "/downloads/v1/cello-ayo-audition-protected.zip",
+    "thumbnailEmoji" : "🎻",
+    "title" : "Cello — AYO Audition"
   },
   {
-    "description": "Illustration of how midi features work on the app",
-    "thumbnailEmoji": "🎵",
-    "tags": [],
-    "stepCount": 5,
-    "id": "midi-test",
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.zip",
-    "title": "midi test"
+    "stepCount" : 1,
+    "description" : "",
+    "id" : "bourreviolin",
+    "tags" : [
+
+    ],
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/bourreviolin.zip",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "BourreViolin"
   },
   {
-    "description": "",
-    "thumbnailEmoji": "🎵🔒",
-    "tags": [],
-    "stepCount": 1,
-    "id": "bourreviolin",
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/bourreviolin.zip",
-    "title": "BourreViolin"
-  },
-  {
-    "id": "frank-foxxote-songs",
-    "title": "Frank Foxxote Songs",
-    "description": "",
-    "tags": [
+    "stepCount" : 11,
+    "description" : "",
+    "id" : "frank-foxxote-songs",
+    "tags" : [
       "Foxxote"
     ],
-    "stepCount": 11,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Frank Foxxote Songs"
   },
   {
-    "id": "size-test",
-    "title": "Size-test",
-    "description": "",
-    "tags": [
+    "stepCount" : 28,
+    "title" : "Size-test",
+    "id" : "size-test",
+    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice",
+    "tags" : [
       "seu jacinto"
-    ],
-    "stepCount": 28,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice",
-    "thumbnailEmoji": "🎵🔒"
+    ]
+  },
+  {
+    "stepCount" : 4,
+    "title" : "midi test",
+    "id" : "midi-test",
+    "description" : "",
+    "thumbnailEmoji" : "🎵",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.practice",
+    "tags" : [
+
+    ]
   }
 ]
