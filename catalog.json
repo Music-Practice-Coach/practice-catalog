@@ -31,15 +31,6 @@
     ]
   },
   {
-    "stepCount": 4,
-    "title": "midi test",
-    "id": "midi-test",
-    "description": "",
-    "thumbnailEmoji": "🎵",
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.practice",
-    "tags": []
-  },
-  {
     "id": "cello-ayo-audition",
     "title": "Cello AYO Audition",
     "description": "",
