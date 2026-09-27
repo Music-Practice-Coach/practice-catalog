@@ -1,24 +1,24 @@
 [
   {
-    "thumbnailEmoji": "🎵🔒",
-    "tags": [
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
       "Κωνσταντίνος"
     ],
-    "description": "",
-    "title": "Πατινάδα (συρτός του κουμπάρου) in Dm",
-    "stepCount": 2,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/in-dm.zip",
-    "id": "in-dm"
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/in-dm.zip",
+    "stepCount" : 2,
+    "title" : "Πατινάδα (συρτός του κουμπάρου) in Dm",
+    "description" : "",
+    "id" : "in-dm"
   },
   {
-    "id": "patinada-syrtos-toy-koymparoy-in-dm",
-    "title": "Πατινάδα (συρτός του κουμπάρου) in Dm",
-    "description": "",
-    "tags": [
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
       "Κωνσταντίνος"
     ],
-    "stepCount": 3,
-    "zipUrl": "https://github.com/music-practice-coach/practice-plans/releases/download/packages/patinada-syrtos-toy-koymparoy-in-dm.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/patinada-syrtos-toy-koymparoy-in-dm.practice",
+    "stepCount" : 3,
+    "title" : "Πατινάδα (συρτός του κουμπάρου) in Dm",
+    "description" : "",
+    "id" : "patinada-syrtos-toy-koymparoy-in-dm"
   }
 ]
