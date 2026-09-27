@@ -1,33 +1,46 @@
 [
   {
-    "stepCount": 11,
-    "description": "",
-    "id": "frank-foxxote-songs",
-    "tags": [
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "frank-foxxote-songs",
+    "title" : "Frank Foxxote Songs",
+    "description" : "",
+    "stepCount" : 11,
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "tags" : [
       "Foxxote"
-    ],
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
-    "thumbnailEmoji": "🎵🔒",
-    "title": "Frank Foxxote Songs"
+    ]
   },
   {
-    "stepCount": 28,
-    "title": "Size-test",
-    "id": "size-test",
-    "description": "",
-    "thumbnailEmoji": "🎵🔒",
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice",
-    "tags": [
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "size-test",
+    "title" : "Size-test",
+    "description" : "",
+    "stepCount" : 28,
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice",
+    "tags" : [
       "seu jacinto"
     ]
   },
   {
-    "id": "cello-ayo-audition",
-    "title": "Cello AYO Audition",
-    "description": "",
-    "tags": [],
-    "stepCount": 6,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cello-ayo-audition.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "cello-ayo-audition",
+    "title" : "Cello AYO Audition",
+    "description" : "",
+    "stepCount" : 6,
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cello-ayo-audition.practice",
+    "tags" : [
+
+    ]
+  },
+  {
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "the-pink-panther",
+    "title" : "THE PINK PANTHER",
+    "description" : "",
+    "stepCount" : 2,
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/the-pink-panther.practice",
+    "tags" : [
+      "Άννα"
+    ]
   }
 ]
