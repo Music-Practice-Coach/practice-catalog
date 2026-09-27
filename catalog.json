@@ -1,57 +1,68 @@
 [
   {
+    "thumbnailEmoji" : "🎵🔒",
+    "description" : "",
     "tags" : [
       "Foxxote"
     ],
     "id" : "frank-foxxote-songs",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
     "stepCount" : 11,
-    "description" : "",
-    "thumbnailEmoji" : "🎵🔒",
-    "title" : "Frank Foxxote Songs"
+    "title" : "Frank Foxxote Songs",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice"
   },
   {
+    "thumbnailEmoji" : "🎵🔒",
+    "description" : "",
     "tags" : [
       "seu jacinto"
     ],
     "id" : "size-test",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice",
     "stepCount" : 28,
-    "description" : "",
-    "thumbnailEmoji" : "🎵🔒",
-    "title" : "Size-test"
+    "title" : "Size-test",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice"
   },
   {
-    "title" : "Cello AYO Audition",
     "thumbnailEmoji" : "🎵🔒",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cello-ayo-audition.practice",
-    "id" : "cello-ayo-audition",
+    "description" : "",
     "tags" : [
 
     ],
-    "description" : "",
-    "stepCount" : 6
+    "id" : "cello-ayo-audition",
+    "stepCount" : 6,
+    "title" : "Cello AYO Audition",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cello-ayo-audition.practice"
   },
   {
-    "title" : "THE PINK PANTHER",
     "thumbnailEmoji" : "🎵🔒",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/the-pink-panther.practice",
-    "id" : "the-pink-panther",
+    "description" : "",
     "tags" : [
       "Άννα"
     ],
-    "description" : "",
-    "stepCount" : 2
+    "id" : "the-pink-panther",
+    "stepCount" : 2,
+    "title" : "THE PINK PANTHER",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/the-pink-panther.practice"
   },
   {
     "thumbnailEmoji" : "🎵🔒",
-    "id" : "new-code-testv2",
     "description" : "",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv2.practice",
-    "title" : "New_code_testv2",
     "tags" : [
 
     ],
-    "stepCount" : 2
+    "id" : "new-code-testv2",
+    "stepCount" : 2,
+    "title" : "New_code_testv2",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv2.practice"
+  },
+  {
+    "thumbnailEmoji" : "🎵🔒",
+    "description" : "",
+    "tags" : [
+
+    ],
+    "id" : "new-code-testv3",
+    "stepCount" : 2,
+    "title" : "New_code_testv3",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv3.practice"
   }
 ]
