@@ -1,17 +1,5 @@
 [
   {
-    "stepCount": 5,
-    "description": "Audition preparation.",
-    "id": "cello-ayo-audition",
-    "tags": [
-      "cello",
-      "audition"
-    ],
-    "zipUrl": "/downloads/v1/cello-ayo-audition-protected.zip",
-    "thumbnailEmoji": "🎻",
-    "title": "Cello — AYO Audition"
-  },
-  {
     "stepCount": 1,
     "description": "",
     "id": "bourreviolin",
@@ -50,5 +38,14 @@
     "thumbnailEmoji": "🎵",
     "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.practice",
     "tags": []
+  },
+  {
+    "id": "cello-ayo-audition",
+    "title": "Cello AYO Audition",
+    "description": "",
+    "tags": [],
+    "stepCount": 6,
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cello-ayo-audition.practice",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
