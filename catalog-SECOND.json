@@ -1,14 +1,14 @@
 [
   {
+    "id": "xote-part-1",
     "title": "Xote Part 1",
     "description": "",
-    "id": "xote-part-1",
     "tags": [
       "Xote",
       "Iraklis"
     ],
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/xote-part-1.zip",
     "stepCount": 5,
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/xote-part-1.practice",
     "thumbnailEmoji": "🎵🔒"
   }
 ]
