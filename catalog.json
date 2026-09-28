@@ -1,98 +1,123 @@
 [
   {
-    "description": "",
-    "tags": [
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 11,
+    "description" : "",
+    "tags" : [
       "Foxxote"
     ],
-    "thumbnailEmoji": "🎵🔒",
-    "title": "Frank Foxxote Songs",
-    "id": "frank-foxxote-songs",
-    "stepCount": 11,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice"
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "id" : "frank-foxxote-songs",
+    "title" : "Frank Foxxote Songs"
   },
   {
-    "description": "",
-    "tags": [
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 28,
+    "description" : "",
+    "tags" : [
       "seu jacinto"
     ],
-    "thumbnailEmoji": "🎵🔒",
-    "title": "Size-test",
-    "id": "size-test",
-    "stepCount": 28,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice"
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice",
+    "id" : "size-test",
+    "title" : "Size-test"
   },
   {
-    "description": "",
-    "tags": [],
-    "thumbnailEmoji": "🎵🔒",
-    "title": "Cello AYO Audition",
-    "id": "cello-ayo-audition",
-    "stepCount": 6,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cello-ayo-audition.practice"
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 6,
+    "description" : "",
+    "tags" : [
+
+    ],
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cello-ayo-audition.practice",
+    "id" : "cello-ayo-audition",
+    "title" : "Cello AYO Audition"
   },
   {
-    "description": "",
-    "tags": [
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 2,
+    "description" : "",
+    "tags" : [
       "Άννα"
     ],
-    "thumbnailEmoji": "🎵🔒",
-    "title": "THE PINK PANTHER",
-    "id": "the-pink-panther",
-    "stepCount": 2,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/the-pink-panther.practice"
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/the-pink-panther.practice",
+    "id" : "the-pink-panther",
+    "title" : "THE PINK PANTHER"
   },
   {
-    "description": "",
-    "tags": [],
-    "thumbnailEmoji": "🎵🔒",
-    "title": "New_code_testv2",
-    "id": "new-code-testv2",
-    "stepCount": 2,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv2.practice"
+    "description" : "",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv2.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
+
+    ],
+    "title" : "New_code_testv2",
+    "id" : "new-code-testv2",
+    "stepCount" : 2
   },
   {
-    "description": "",
-    "tags": [],
-    "thumbnailEmoji": "🎵🔒",
-    "title": "New_code_testv3",
-    "id": "new-code-testv3",
-    "stepCount": 3,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv3.practice"
+    "description" : "",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv3.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
+
+    ],
+    "title" : "New_code_testv3",
+    "id" : "new-code-testv3",
+    "stepCount" : 3
   },
   {
-    "description": "",
-    "tags": [],
-    "thumbnailEmoji": "🎵🔒",
-    "title": "New_code_testv4",
-    "id": "new-code-testv4",
-    "stepCount": 3,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv4.practice"
+    "id" : "new-code-testv4",
+    "title" : "New_code_testv4",
+    "tags" : [
+
+    ],
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv4.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 3,
+    "description" : ""
   },
   {
-    "description": "",
-    "tags": [],
-    "thumbnailEmoji": "🎵🔒",
-    "title": "New_code_testv5",
-    "id": "new-code-testv5",
-    "stepCount": 3,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv5.practice"
+    "id" : "new-code-testv5",
+    "title" : "New_code_testv5",
+    "tags" : [
+
+    ],
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv5.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 3,
+    "description" : ""
   },
   {
-    "description": "",
-    "tags": [],
-    "thumbnailEmoji": "🎵🔒",
-    "title": "New_code_testv6",
-    "id": "new-code-testv6",
-    "stepCount": 3,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv6.practice"
+    "id" : "new-code-testv6",
+    "title" : "New_code_testv6",
+    "tags" : [
+
+    ],
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv6.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 3,
+    "description" : ""
   },
   {
-    "id": "new-code-testv7",
-    "title": "New_code_testv7",
-    "description": "",
-    "tags": [],
-    "stepCount": 3,
-    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv7.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "id" : "new-code-testv7",
+    "title" : "New_code_testv7",
+    "tags" : [
+
+    ],
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv7.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 3,
+    "description" : ""
+  },
+  {
+    "id" : "new-code-testv8",
+    "title" : "New_code_testv8",
+    "tags" : [
+
+    ],
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv8.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 1,
+    "description" : ""
   }
 ]
