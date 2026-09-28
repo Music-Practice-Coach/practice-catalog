@@ -1,79 +1,90 @@
 [
   {
-    "description" : "",
-    "title" : "Frank Foxxote Songs",
-    "id" : "frank-foxxote-songs",
-    "stepCount" : 11,
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
     "tags" : [
       "Foxxote"
     ],
-    "thumbnailEmoji" : "🎵🔒"
+    "stepCount" : 11,
+    "description" : "",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "title" : "Frank Foxxote Songs",
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "frank-foxxote-songs"
   },
   {
-    "description" : "",
-    "title" : "Size-test",
-    "id" : "size-test",
-    "stepCount" : 28,
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice",
     "tags" : [
       "seu jacinto"
     ],
-    "thumbnailEmoji" : "🎵🔒"
+    "stepCount" : 28,
+    "description" : "",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/size-test.practice",
+    "title" : "Size-test",
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "size-test"
   },
   {
-    "description" : "",
-    "title" : "Cello AYO Audition",
-    "id" : "cello-ayo-audition",
-    "stepCount" : 6,
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cello-ayo-audition.practice",
     "tags" : [
 
     ],
-    "thumbnailEmoji" : "🎵🔒"
+    "stepCount" : 6,
+    "description" : "",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cello-ayo-audition.practice",
+    "title" : "Cello AYO Audition",
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "cello-ayo-audition"
   },
   {
-    "description" : "",
-    "title" : "THE PINK PANTHER",
-    "id" : "the-pink-panther",
-    "stepCount" : 2,
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/the-pink-panther.practice",
     "tags" : [
       "Άννα"
     ],
-    "thumbnailEmoji" : "🎵🔒"
-  },
-  {
-    "description" : "",
-    "title" : "New_code_testv2",
-    "id" : "new-code-testv2",
     "stepCount" : 2,
+    "description" : "",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/the-pink-panther.practice",
+    "title" : "THE PINK PANTHER",
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "the-pink-panther"
+  },
+  {
+    "tags" : [
+
+    ],
+    "stepCount" : 2,
+    "description" : "",
     "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv2.practice",
+    "title" : "New_code_testv2",
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "new-code-testv2"
+  },
+  {
     "tags" : [
 
     ],
-    "thumbnailEmoji" : "🎵🔒"
-  },
-  {
-    "description" : "",
-    "title" : "New_code_testv3",
-    "id" : "new-code-testv3",
     "stepCount" : 3,
+    "description" : "",
     "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv3.practice",
-    "tags" : [
-
-    ],
-    "thumbnailEmoji" : "🎵🔒"
+    "title" : "New_code_testv3",
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "new-code-testv3"
   },
   {
-    "description" : "",
-    "title" : "New_code_testv4",
-    "id" : "new-code-testv4",
-    "stepCount" : 3,
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv4.practice",
     "tags" : [
 
     ],
-    "thumbnailEmoji" : "🎵🔒"
+    "stepCount" : 3,
+    "description" : "",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv4.practice",
+    "title" : "New_code_testv4",
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "new-code-testv4"
+  },
+  {
+    "tags" : [
+
+    ],
+    "stepCount" : 3,
+    "description" : "",
+    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv5.practice",
+    "title" : "New_code_testv5",
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "new-code-testv5"
   }
 ]
