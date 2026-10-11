@@ -1,134 +1,123 @@
 [
   {
-    "stepCount" : 6,
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "tags" : [
-
-    ],
-    "id" : "cello-ayo-audition",
-    "title" : "Cello AYO Audition",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cello-ayo-audition.practice"
+    "stepCount": 6,
+    "thumbnailEmoji": "🎵🔒",
+    "description": "",
+    "tags": [],
+    "id": "cello-ayo-audition",
+    "title": "Cello AYO Audition",
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/cello-ayo-audition.practice"
   },
   {
-    "stepCount" : 2,
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "tags" : [
+    "stepCount": 2,
+    "thumbnailEmoji": "🎵🔒",
+    "description": "",
+    "tags": [
       "Άννα"
     ],
-    "id" : "the-pink-panther",
-    "title" : "THE PINK PANTHER",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/the-pink-panther.practice"
+    "id": "the-pink-panther",
+    "title": "THE PINK PANTHER",
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/the-pink-panther.practice"
   },
   {
-    "stepCount" : 2,
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "tags" : [
-
-    ],
-    "id" : "new-code-testv2",
-    "title" : "New_code_testv2",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv2.practice"
+    "stepCount": 2,
+    "thumbnailEmoji": "🎵🔒",
+    "description": "",
+    "tags": [],
+    "id": "new-code-testv2",
+    "title": "New_code_testv2",
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv2.practice"
   },
   {
-    "stepCount" : 3,
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "tags" : [
-
-    ],
-    "id" : "new-code-testv3",
-    "title" : "New_code_testv3",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv3.practice"
+    "stepCount": 3,
+    "thumbnailEmoji": "🎵🔒",
+    "description": "",
+    "tags": [],
+    "id": "new-code-testv3",
+    "title": "New_code_testv3",
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv3.practice"
   },
   {
-    "stepCount" : 3,
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "tags" : [
-
-    ],
-    "id" : "new-code-testv4",
-    "title" : "New_code_testv4",
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv4.practice"
+    "stepCount": 3,
+    "thumbnailEmoji": "🎵🔒",
+    "description": "",
+    "tags": [],
+    "id": "new-code-testv4",
+    "title": "New_code_testv4",
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv4.practice"
   },
   {
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv5.practice",
-    "tags" : [
-
-    ],
-    "title" : "New_code_testv5",
-    "description" : "",
-    "id" : "new-code-testv5",
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 3
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv5.practice",
+    "tags": [],
+    "title": "New_code_testv5",
+    "description": "",
+    "id": "new-code-testv5",
+    "thumbnailEmoji": "🎵🔒",
+    "stepCount": 3
   },
   {
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv6.practice",
-    "tags" : [
-
-    ],
-    "title" : "New_code_testv6",
-    "description" : "",
-    "id" : "new-code-testv6",
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 3
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv6.practice",
+    "tags": [],
+    "title": "New_code_testv6",
+    "description": "",
+    "id": "new-code-testv6",
+    "thumbnailEmoji": "🎵🔒",
+    "stepCount": 3
   },
   {
-    "stepCount" : 3,
-    "title" : "New_code_testv7",
-    "tags" : [
-
-    ],
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv7.practice",
-    "description" : "",
-    "id" : "new-code-testv7",
-    "thumbnailEmoji" : "🎵🔒"
+    "stepCount": 3,
+    "title": "New_code_testv7",
+    "tags": [],
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv7.practice",
+    "description": "",
+    "id": "new-code-testv7",
+    "thumbnailEmoji": "🎵🔒"
   },
   {
-    "stepCount" : 1,
-    "title" : "New_code_testv8",
-    "tags" : [
-
-    ],
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv8.practice",
-    "description" : "",
-    "id" : "new-code-testv8",
-    "thumbnailEmoji" : "🎵🔒"
+    "stepCount": 1,
+    "title": "New_code_testv8",
+    "tags": [],
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/new-code-testv8.practice",
+    "description": "",
+    "id": "new-code-testv8",
+    "thumbnailEmoji": "🎵🔒"
   },
   {
-    "stepCount" : 5,
-    "title" : "midi test",
-    "tags" : [
-
-    ],
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.practice",
-    "description" : "",
-    "id" : "midi-test",
-    "thumbnailEmoji" : "🎵🔒"
+    "stepCount": 5,
+    "title": "midi test",
+    "tags": [],
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/midi-test.practice",
+    "description": "",
+    "id": "midi-test",
+    "thumbnailEmoji": "🎵🔒"
   },
   {
-    "stepCount" : 11,
-    "title" : "Frank Foxxote Songs",
-    "tags" : [
+    "stepCount": 11,
+    "title": "Frank Foxxote Songs",
+    "tags": [
       "Foxxote"
     ],
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
-    "description" : "",
-    "id" : "frank-foxxote-songs",
-    "thumbnailEmoji" : "🎵🔒"
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "description": "",
+    "id": "frank-foxxote-songs",
+    "thumbnailEmoji": "🎵🔒"
   },
   {
-    "stepCount" : 1,
-    "title" : "2codetest",
-    "tags" : [
-
-    ],
-    "zipUrl" : "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/2codetest.practice",
-    "description" : "",
-    "id" : "2codetest",
-    "thumbnailEmoji" : "🎵"
+    "stepCount": 1,
+    "title": "2codetest",
+    "tags": [],
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/2codetest.practice",
+    "description": "",
+    "id": "2codetest",
+    "thumbnailEmoji": "🎵"
+  },
+  {
+    "id": "enigma-minuni",
+    "title": "Enigma (Minuni)",
+    "description": "",
+    "tags": [],
+    "stepCount": 5,
+    "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/enigma-minuni.practice",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
