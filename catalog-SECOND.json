@@ -10,5 +10,14 @@
     "stepCount": 5,
     "zipUrl": "https://github.com/Music-Practice-Coach/practice-plans/releases/download/packages/xote-part-1.practice",
     "thumbnailEmoji": "🎵🔒"
+  },
+  {
+    "id": "enigma-minuni",
+    "title": "Enigma (Minuni)",
+    "description": "",
+    "tags": [],
+    "stepCount": 5,
+    "zipUrl": "https://github.com/music-practice-coach/practice-plans/releases/download/packages/enigma-minuni.practice",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
